@@ -1,6 +1,4 @@
 *Please scroll down for english version*
-# Dittrich Levente
-
 ## Bemutatkozás
 
 Dittrich Levente vagyok, másodéves Alkalmazott közgazdaságtan hallgató a Budapesti Corvinus Egyetemen. Ez a weboldal egy portfolióként szolgál az eddig megszerzett ökonometirai tudásom demonstrálására.   
