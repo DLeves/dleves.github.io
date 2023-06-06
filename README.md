@@ -5,7 +5,7 @@ Dittrich Levente vagyok, másodéves Alkalmazott közgazdaságtan hallgató a Bu
 
 Tanulmányaim során élénken foglalkoztatott a programozás, statisztikai modellek építése és a közgazdaságtan. Először autodidakta módon kezdtem bele az **R** programnyelv használatába, majd elvégeztem a [Google Data Analytics Certificate-et](https://www.credly.com/badges/20a16b4a-288a-4e05-a45e-d3ffd8c78dc7/linked_in_profile) majd Ökonometria I. és II. tárgyaimon az eddig szerzett tudást elmélyítve ismerkedtem meg a _kereszmetszeti_ és _idősoros_, valamint még egy másik tárgyon a _panel_ adatok elemzésével.  
 
-Az általam leggyakrabban használ programnyelv az **R**, viszont nem idegen számomra a **Python** (Morgan-Stanley kurzus + autodidakta módon) és **C++** (Gazdaságinformatikus képzésen kezdtem) sem. 
+Az általam leggyakrabban használ programnyelv az **R**, viszont nem idegen számomra a **Python** (Morgan-Stanley kurzus) és **C++** (Gazdaságinformatikus képzésen kezdtem) sem. 
 
 # Portfolióm
 
