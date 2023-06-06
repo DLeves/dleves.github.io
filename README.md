@@ -13,11 +13,11 @@ Az alábbiakban különböző modelleket építettem (folyamatosan frissül) és
 
 | A használt modell típusa  | Felhasznált adatok  | Portfoliómunkám R-ben | Portfoliómunkám Pythonban |
 | :---                      | :---                |  :---                 | :---                      |
-| Többváltozós, nem lineáris OLS regresszió | adat | [cim](link) | [cim](link) |
-| Logisztikus regresszió | adat | [cim](link) | [cim](link) |
-| ARCH modell | adat | [cim](link) | [cim](link) |
-| VECM/VAR modell | adat | [cim](link) | [cim](link) |
-| Területi pandelmodell | adat | [cim](link) | [cim](link) |
+| Többváltozós, nem lineáris OLS regresszió | - | - | - |
+| Logisztikus regresszió | - | - | - |
+| ARCH modell | - | - | - |
+| VECM/VAR modell | - | - | - |
+| Területi panelmodell | - | - | - |
 
 ## Egyéb, más projektjeim:
 
