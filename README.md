@@ -14,7 +14,7 @@ Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) for
 
 | A használt modell típusa  | Felhasznált adatok  | Portfoliómunkám R-ben | Portfoliómunkám Pythonban |
 | :---                      | :---                |  :---                 | :---                      |
-| Többváltozós, nem lineáris OLS regresszió | - | - | - |
+| Többváltozós, nem lineáris OLS regresszió | [Budapesti lakásárak](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/BP_Lakas.csv)| [Budapesti lakásárak modellezése](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/ols_hun.md) | - |
 | Logisztikus regresszió | - | - | - |
 | ARCH modell | - | - | - |
 | VECM/VAR modell | - | - | - |
