@@ -9,7 +9,7 @@ Az általam leggyakrabban használ programnyelv az **R**, viszont nem idegen sz�
 
 # Portfolióm
 
-Az alábbiakban különböző modelleket építettem és értelmeztem (folyamatosan frissül).
+Az alábbiakban különböző modelleket építettem és értelmeztem (folyamatosan frissül).   
 Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) formátumban az áttekinthetőség és a felhasználóbaratság miatt.
 
 | A használt modell típusa  | Felhasznált adatok  | Portfoliómunkám R-ben | Portfoliómunkám Pythonban |
