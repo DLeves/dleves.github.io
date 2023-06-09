@@ -17,7 +17,7 @@ Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) for
 | Többváltozós, nem lineáris OLS regresszió | [Budapesti lakásárak](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/BP_Lakas.csv)| [Budapesti lakásárak modellezése](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/ols_hun.md) | - |
 | Logisztikus regresszió | - | - | - |
 | ARCH modell | - | - | - |
-| VECM/VAR modell | - | - | - |
+| VECM/VAR modell | [AMD](https://finance.yahoo.com/quote/AMD?p=AMD&.tsrc=fin-srch), [Intel](https://finance.yahoo.com/quote/INTC?p=INTC&.tsrc=fin-srch), [NVIDIA](https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch) részvények árfolyama | [Részvények együttmozgása](https://github.com/DLeves/Portfolio/blob/main/VECM/vecm_hun.md) | - |
 | Területi panelmodell | - | - | - |
 
 ## Egyéb, más projektjeim:
@@ -26,5 +26,6 @@ Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) for
 | :---                            | :---                   | :---               | :---
 | KSH TIMEA reprodukciója R Shinyban | [MapPlot](https://github.com/DLeves/MapPlot) | [Shiny link](https://dleves.shinyapps.io/SzakdolgozatMapPlot/) | A szakdolgozatom 2. fejezetéhez készült. |
 
-# ENGLISH (in progress)
+# English (in progress...)
+
 I'm Levente Dittrich, an Applied economics student (just passed the 4. semester) at Corvinus University of Budapest. This website is for demonstarive purposes of my econometrics skills as a portfolio.
