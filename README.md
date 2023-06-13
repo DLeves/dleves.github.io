@@ -17,7 +17,7 @@ Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) for
 | Többváltozós, nem lineáris OLS regresszió | [Budapesti lakásárak](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/BP_Lakas.csv)| [Budapesti lakásárak modellezése](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/ols_hun.md) | - |
 | Logisztikus regresszió | - | - | - |
 | ARCH modell | - | - | - |
-| VECM/VAR modell | [AMD](https://finance.yahoo.com/quote/AMD?p=AMD&.tsrc=fin-srch), [Intel](https://finance.yahoo.com/quote/INTC?p=INTC&.tsrc=fin-srch), [NVIDIA](https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch) részvények árfolyama | [Részvények együttmozgása](https://github.com/DLeves/Portfolio/blob/main/VECM/vecm_hun.md) | - |
+| VEC/VAR modell | [AMD](https://finance.yahoo.com/quote/AMD?p=AMD&.tsrc=fin-srch), [Intel](https://finance.yahoo.com/quote/INTC?p=INTC&.tsrc=fin-srch), [NVIDIA](https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch) részvények árfolyama | [Részvények együttmozgása](https://github.com/DLeves/Portfolio/blob/main/VECM/vecm_hun.md) | - |
 | Területi panelmodell | - | - | - |
 
 ## Egyéb, más projektjeim:
