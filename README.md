@@ -16,7 +16,7 @@ Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) for
 | :---                      | :---                |  :---                 | :---                      |
 | Többváltozós, nem lineáris OLS regresszió | [Budapesti lakásárak](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/BP_Lakas.csv)| [Budapesti lakásárak modellezése](https://github.com/DLeves/Portfolio/blob/main/OLS%20regression/ols_hun.md) | - |
 | Logisztikus regresszió | - | - | - |
-| SARIMA modell | [Magyar infláció](https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_3761882/bookmark/table?lang=en&bookmarkId=4ad27e6f-358a-4a3d-82a0-587d69a833eb) | [Inflációs ARCH modell](https://github.com/DLeves/Portfolio/blob/main/ARCH%20model/arch_hun.md) | - |
+| SARIMA modell | [Magyar infláció](https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MANR__custom_3761882/bookmark/table?lang=en&bookmarkId=4ad27e6f-358a-4a3d-82a0-587d69a833eb) | [Inflációs SARIMA modell](https://github.com/DLeves/Portfolio/blob/main/ARCH%20model/arch_hun.md) | - |
 | VEC/VAR modell | [AMD](https://finance.yahoo.com/quote/AMD?p=AMD&.tsrc=fin-srch), [Intel](https://finance.yahoo.com/quote/INTC?p=INTC&.tsrc=fin-srch), [NVIDIA](https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch) részvények árfolyama | [Részvények együttmozgása](https://github.com/DLeves/Portfolio/blob/main/VECM/vecm_hun.md) | - |
 | Területi panelmodell | - | - | - |
 
