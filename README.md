@@ -27,7 +27,7 @@ Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) for
 | :---                            | :---                   | :---               | :---
 | KSH TIMEA reprodukciója R Shinyban | [MapPlot](https://github.com/DLeves/MapPlot) | [Shiny link](https://dleves.shinyapps.io/SzakdolgozatMapPlot/) | A szakdolgozatom 2. fejezetéhez készült. |
 
-[Önéletrajzom](https://github.com/DLeves/Portfolio/blob/main/oneletrajz.pdf) további relevéns információkkal is szolgálhat.
+[Önéletrajzom](https://github.com/DLeves/Portfolio/blob/main/oneletrajz.pdf) további releváns információkkal is szolgálhat.
 
 # English (in progress...)
 
