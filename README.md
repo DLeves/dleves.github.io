@@ -29,6 +29,11 @@ Először R-ben, aztán Pythtonban R Markdown és IPython (Jupyter Notebook) for
 
 [Önéletrajzom](https://github.com/DLeves/Portfolio/blob/main/oneletrajz.pdf) további releváns információkkal is szolgálhat.
 
+| Certificate-jeim: |
+| :--- | 
+| [Google Data Analytics Certificate](https://www.credly.com/badges/20a16b4a-288a-4e05-a45e-d3ffd8c78dc7/linked_in_profile) |
+| [Machine Learning with Tree-Based Models in R](https://www.datacamp.com/completed/statement-of-accomplishment/course/c77749cb0527adac90a6c9fc077977477c2fecf9) |
+
 # English (in progress...)
 
 I'm Levente Dittrich, an Applied economics student (just passed the 4. semester) at Corvinus University of Budapest. This website is for demonstarive purposes of my econometrics skills as a portfolio.
