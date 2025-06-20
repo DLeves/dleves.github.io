@@ -1,4 +1,5 @@
 title: Dittrich Levente
 description: Portfolio, personal page
 theme: jekyll-theme-cayman
+custom_css: assets/css/custom.css
 
