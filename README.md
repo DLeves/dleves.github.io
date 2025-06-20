@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Hello, I’m Levente Dittrich.  
 I am passionate about extracting insights from data through visualization and modeling, with a focus on predictive analytics for practical applications. I am proficient in R and have advanced skills in Python. My expertise includes classical statistical and econometric modeling, as well as machine learning techniques such as tree-based models, boosting, and deep learning architectures like LSTM, applied to both regression and classification tasks.  
@@ -25,7 +25,7 @@ I also have experience with natural language processing tools, including analysi
         - Migrated and optimized pricing, Value at Risk (VaR), and limit-setting calculations to newer Python versions
         - Converted Python-based reports to Power BI, with underlying calculations implemented in SQL
 
-# Portfolio Projects
+## Portfolio Projects
 
 | Short description | Problem | Methods | Data | Language |
 | ---               | ---     | ---     | ---  | ---      |
